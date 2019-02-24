@@ -22,5 +22,5 @@ Clustering folder contains:
 * _Hierarchical Clustering_
 
 Deep learning folder contains:
-* _Artificail Neural Network_
+* _Artificial Neural Network_
 
